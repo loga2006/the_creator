@@ -4,7 +4,7 @@ import React from 'react';
 export const SethuLogo = () => (
   <div className="w-full h-full">
     <img 
-        src="public/Sethu_Institute_of_Technology_Logo.png"
+        src="/Sethu_Institute_of_Technology_Logo.png"
         alt="Sethu Institute of Technology Logo"
         className="w-full h-full object-contain"
     />
