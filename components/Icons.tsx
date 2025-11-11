@@ -3,7 +3,7 @@ import React from 'react';
 export const SethuLogo = () => (
   <div className="w-full h-full">
     <img 
-        src="components\Sethu_Institute_of_Technology_Logo.png"
+        src="components/Sethu_Institute_of_Technology_Logo.png"
         alt="Sethu Institute of Technology Logo"
         className="w-full h-full object-contain"
     />
